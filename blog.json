@@ -1,0 +1,44 @@
+{
+  "version": "",
+  "copyright": "",
+  "blog_title": "爱博客",
+  "blog_icon": "",
+  "user_avatar": "",
+  "user_desc": "",
+  "blog_nav": [
+    {
+      "icon": "",
+      "image": "",
+      "name": "Docker",
+      "link": "",
+      "locked": false
+    },
+    {
+      "icon": "",
+      "image": "",
+      "name": "Kubernetes",
+      "link": "",
+      "locked": false
+    }
+  ],
+  "blog_aside": [
+    {
+      "icon": "",
+      "image": "",
+      "name": "Golang",
+      "link": "",
+      "articles": [],
+      "children": [],
+      "locked": false
+    },
+    {
+      "icon": "",
+      "image": "",
+      "name": "Python",
+      "link": "",
+      "articles": [],
+      "children": [],
+      "locked": false
+    }
+  ]
+}
